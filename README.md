@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Singh
 - I pursued my M.Tech from IIT-Hyderabad
-- 🌱 I’m currently working in Radisys India as a Software Engineer in vRAN
+- 🌱 I’m currently working in Radisys India as a Senior Software Engineer in vRAN
 - 📫 Reach me adityakus1996@gmail.com or LinkedIn: https://www.linkedin.com/in/adityakumarsinghiith/
 - 👀 My personal intrests are Exploring new places, Spending time in Gym, Reading Books on Finance&Personal Mgmnt and Playing Chess&Outdoor Games
 <!---
